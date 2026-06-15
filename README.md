@@ -11,8 +11,8 @@ ProQuESS Engineering is a comprehensive operational framework designed to bridge
 3. **[ESS] Environment, Safety & Sustainability:** Industrial safety protocols and risk mitigation.
 4. **[Navigation Guide]:** Strategic workflows for project lifecycle management.
 5. **[Operational Templates]:** Standardized datasheets and technical reporting formats.
-6. **[IOM] Integrated Operations Manual:** The central operational system connecting all technical functions.
-7. **[Company Profile]:** Professional expertise in chemical process simulation (Aspen Plus & HYSYS).
+6. **[IOM] Integrated Operations Manual:** The central operational system connecting all technical functions
+7. **[Company Profile](ProQuESS%20ENGINEERING%20Company%20.PDF)**: Professional expertise in chemical process simulation (Aspen Plus & HYSYS). *For professional consultation and project inquiries, contact us through our official channels.*
 *For professional consultation and project inquiries, contact us through our official channels.*
 ### 🤝 Contact & Professional Links
 * [LinkedIn](https://www.linkedin.com/in/samir-saadabi-915471228)
