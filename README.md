@@ -19,5 +19,6 @@ ProQuESS Engineering is a comprehensive operational framework designed to bridge
 * [Email](mailto:samersaddabi7@gmail.com)
 * [Career Accelerator Toolkit](https://saddabi.gumroad.com/l/gulf-afro-engineer)
 ---
+---
 ### 📄 Company Documents
-* **[Download Official Company Profile](ProQuESS%20ENGINEERING%20Company%20.PDF)**
+* **[Download Official Company Profile](ProQuESS%20ENGINEERING%20Company%20Profile.pdf)**
