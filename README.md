@@ -18,9 +18,16 @@ ProQuESS Engineering is a comprehensive operational framework designed to bridge
 * [LinkedIn](https://www.linkedin.com/in/samir-saadabi-915471228)
 * [Email](mailto:samersaddabi7@gmail.com)
 * [Career Accelerator Toolkit](https://saddabi.gumroad.com/l/gulf-afro-engineer)
----
----
----
+-
 ### 📄 Company Documents
 * **[Download Official Company Profile](ProQuESS%20ENGINEERING%20Company%20Profile.pdf)**
+  
+* ### Selected Project Highlights
+
+**Case Study: Product Formulation Optimization & Operational Efficiency**
+* **Client:** Savola Oils (Sabah Oil Brand)
+* **Challenge:** Developing vitamin-fortified formulations while ensuring process stability and quality consistency.
+* **Solution:** Led engineering analysis and process simulation; optimized production workflow to maximize chemical compatibility.
+* **Result:** Successfully developed the product and enhanced production line efficiency by **46%**.
+
 
